@@ -1,0 +1,161 @@
+ footer {
+     text-align: center;
+ }
+
+ footer ul li {
+     margin-bottom: 1rem;
+ }
+
+ footer img {
+     width: 10rem;
+     margin-bottom: 1rem;
+ }
+
+ footer i {
+     font-size: 1.2rem;
+ }
+
+ footer i {
+     margin: 1rem;
+ }
+
+ footer .social_media {
+     margin-bottom: 1rem;
+ }
+
+ #footer_base_line {
+     width: 100%;
+     height: 0.5rem;
+     background-color: var(--main-backgroundColor);
+ }
+
+
+ @media (min-width: 768px) and (max-width: 1024px) {
+
+     /* FOOTER START */
+     footer .footer_logo {
+         display: flex;
+         flex-direction: row-reverse;
+         justify-content: space-between;
+         text-align: center;
+         align-items: center;
+         margin-bottom: 1.5rem;
+     }
+
+     footer .footer_logo img {
+         width: 8rem;
+         margin-bottom: 0;
+     }
+
+     footer i,
+     footer a,
+     footer p {
+         color: var(--textColor);
+     }
+
+     footer ul li a {
+         margin-left: 0.5rem;
+     }
+
+     footer .other_services_a {
+         word-spacing: 1px;
+     }
+
+     footer i {
+         margin: 0.3rem;
+     }
+
+     footer ul {
+         display: flex;
+     }
+
+     footer ul li {
+         margin-bottom: 0;
+     }
+
+     footer .footer_doctor_li a {
+         margin: 0;
+     }
+
+     footer .footer_social_media {
+         display: flex;
+         flex-direction: row-reverse;
+         justify-content: space-between;
+         align-items: center;
+     }
+
+     footer .social_media {
+         margin-bottom: 0;
+     }
+
+     /* FOOTER END */
+ }
+
+ @media (min-width: 768px) and (max-width: 900px) {}
+
+ @media (min-width: 1025px) {
+
+     /* FOOTER START */
+     footer .footer_logo {
+         display: flex;
+         flex-direction: row-reverse;
+         justify-content: space-between;
+         text-align: center;
+         align-items: center;
+         margin-bottom: 1.5rem;
+     }
+
+     footer .footer_logo img {
+         width: 8rem;
+         margin-bottom: 0;
+     }
+
+     footer i,
+     footer a,
+     footer p {
+         color: var(--textColor);
+     }
+
+     footer ul li a {
+         margin-left: 0.5rem;
+     }
+
+     footer .other_services_a {
+         word-spacing: 1px;
+     }
+
+     footer i {
+         margin: 0.3rem;
+     }
+
+     footer ul {
+         display: flex;
+     }
+
+     footer ul li {
+         margin-bottom: 0;
+     }
+
+     footer .footer_doctor_li a {
+         margin: 0;
+     }
+
+     footer .footer_social_media {
+         display: flex;
+         flex-direction: row-reverse;
+         justify-content: space-between;
+         align-items: center;
+     }
+
+     footer .social_media {
+         margin-bottom: 0;
+     }
+
+     #footer_base_line {
+         width: 100%;
+         height: 0.5rem;
+         background-color: var(--main-backgroundColor);
+     }
+
+     /* FOOTER END */
+ }

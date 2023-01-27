@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import NavBar from "./components/NavBar/NavBar";
+import AboutHospital from "./components/AboutHospital/AboutHospital";
+import AboutUs from "./components/AboutUs/AboutUs";
+import Appointment from "./components/Appointment/Appointment";
+import ContactUs from "./components/ContactUs/ContactUs";
+import Index from "./components/Index/Index";
+import Footer from "./components/Footer/Footer";
+// import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, Link, Routes } from 'react-router-dom';
+import ErrorBoundary from "./components/ErrorBoundary";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // <ErrorBoundary>
+    <>
+      <NavBar />
+      {/* <AboutHospital /> */}
+      {/* <AboutUs /> */}
+      {/* <Appointment /> */}
+      <Index />
+      {/* <ContactUs /> */}
+      <Footer />
+    </>
+    // {/* </ErrorBoundary> */}
   );
 }
 
