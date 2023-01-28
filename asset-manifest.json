@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tvastra_react/static/css/main.745acc76.css",
-    "main.js": "/tvastra_react/static/js/main.babcdcf0.js",
+    "main.css": "/tvastra_react/static/css/main.8bd68a36.css",
+    "main.js": "/tvastra_react/static/js/main.04e6698f.js",
     "static/js/787.6862a637.chunk.js": "/tvastra_react/static/js/787.6862a637.chunk.js",
     "static/media/The New Stamford Hospital TV Commercial 1080 x 1920.mp4": "/tvastra_react/static/media/The New Stamford Hospital TV Commercial 1080 x 1920.ba0f1a95d565aaa0ff7b.mp4",
     "static/media/femaleDoctor.png": "/tvastra_react/static/media/femaleDoctor.855b22f96ae23bf974ed.png",
@@ -30,12 +30,12 @@
     "static/media/img4.jpeg": "/tvastra_react/static/media/img4.6eda0d74cc706f46fd14.jpeg",
     "static/media/gps.png": "/tvastra_react/static/media/gps.bb1e7203b3c733adaac4.png",
     "index.html": "/tvastra_react/index.html",
-    "main.745acc76.css.map": "/tvastra_react/static/css/main.745acc76.css.map",
-    "main.babcdcf0.js.map": "/tvastra_react/static/js/main.babcdcf0.js.map",
+    "main.8bd68a36.css.map": "/tvastra_react/static/css/main.8bd68a36.css.map",
+    "main.04e6698f.js.map": "/tvastra_react/static/js/main.04e6698f.js.map",
     "787.6862a637.chunk.js.map": "/tvastra_react/static/js/787.6862a637.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.745acc76.css",
-    "static/js/main.babcdcf0.js"
+    "static/css/main.8bd68a36.css",
+    "static/js/main.04e6698f.js"
   ]
 }
