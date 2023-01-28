@@ -3,6 +3,7 @@ import cx from "classnames";
 import "../../common_scss/reset.scss";
 import themeStyles from "../../common_scss/theme.module.scss";
 import styles from "./NavBar.module.scss";
+import { Link } from "react-router-dom";
 function NavBar() {
     return (
         <div>
@@ -17,13 +18,17 @@ function NavBar() {
 
                     <div className={styles.menu_bar}>
                         <ul>
-                            <li> <a href="/">Home</a> </li>
+                            <li> <Link to="/">Home</Link> </li>
+                            {/* <li> <Link to="/home">Home</Link> </li> */}
                             <li><a href="/doctor">Doctors</a></li>
-                            <li><a href="/hospital">Hospitals</a></li>
-                            <li><a href="/dentistry">Treatment</a></li>
+                            <li><Link to="/about_hospital">Hospitals</Link></li>
+                            {/* <li><Link to="/dentistry">Treatment</Link></li> */}
                             {/* <li><a href="/tvastraplus">Other Services</a></li> */}
-                            <li><a href="/aboutus">About</a></li>
-                            <li><a href="/appointment">Appointment</a></li>
+                            {/* <li><a href="/aboutus">About</a></li> */}
+                            <li><Link to="/contact_us">Contact</Link></li>
+                            <li><Link to="/aboutus">About</Link></li>
+                            <li><Link to="/appointment">Appointment</Link></li>
+                            <li><Link to="/others">Other</Link></li>
                         </ul>
                         <div className={styles.menu_buttons}>
                             <form action="/emaillogin" style={{ display: "inline" }}>
