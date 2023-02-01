@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/tvastra_react/static/css/main.8bd68a36.css",
-    "main.js": "/tvastra_react/static/js/main.04e6698f.js",
-    "static/js/787.6862a637.chunk.js": "/tvastra_react/static/js/787.6862a637.chunk.js",
+    "main.css": "/tvastra_react/static/css/main.c9785a8b.css",
+    "main.js": "/tvastra_react/static/js/main.0d382a73.js",
+    "static/js/787.d7c64fa8.chunk.js": "/tvastra_react/static/js/787.d7c64fa8.chunk.js",
     "static/media/The New Stamford Hospital TV Commercial 1080 x 1920.mp4": "/tvastra_react/static/media/The New Stamford Hospital TV Commercial 1080 x 1920.ba0f1a95d565aaa0ff7b.mp4",
     "static/media/femaleDoctor.png": "/tvastra_react/static/media/femaleDoctor.855b22f96ae23bf974ed.png",
+    "static/media/img5.jpg": "/tvastra_react/static/media/img5.170accccf82f97d9e22f.jpg",
     "static/media/aboutUs_hero.jpeg": "/tvastra_react/static/media/aboutUs_hero.6193c79423f8959081aa.jpeg",
     "static/media/appolo.jpg": "/tvastra_react/static/media/appolo.dd95bfc69a1a3cf6f96e.jpg",
     "static/media/image-006.jpg": "/tvastra_react/static/media/image-006.d5d3bb2b6d344d32af1f.jpg",
@@ -30,12 +31,12 @@
     "static/media/img4.jpeg": "/tvastra_react/static/media/img4.6eda0d74cc706f46fd14.jpeg",
     "static/media/gps.png": "/tvastra_react/static/media/gps.bb1e7203b3c733adaac4.png",
     "index.html": "/tvastra_react/index.html",
-    "main.8bd68a36.css.map": "/tvastra_react/static/css/main.8bd68a36.css.map",
-    "main.04e6698f.js.map": "/tvastra_react/static/js/main.04e6698f.js.map",
-    "787.6862a637.chunk.js.map": "/tvastra_react/static/js/787.6862a637.chunk.js.map"
+    "main.c9785a8b.css.map": "/tvastra_react/static/css/main.c9785a8b.css.map",
+    "main.0d382a73.js.map": "/tvastra_react/static/js/main.0d382a73.js.map",
+    "787.d7c64fa8.chunk.js.map": "/tvastra_react/static/js/787.d7c64fa8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bd68a36.css",
-    "static/js/main.04e6698f.js"
+    "static/css/main.c9785a8b.css",
+    "static/js/main.0d382a73.js"
   ]
 }
